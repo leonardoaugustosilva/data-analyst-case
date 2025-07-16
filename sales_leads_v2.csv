@@ -1,0 +1,501 @@
+lead_id,created_at,source,campaign,sales_rep,region
+L0001,2025-05-09,Email,Campaign 2,Rep 9,East
+L0002,2025-01-18,Referral,Campaign 1,Rep 9,South
+L0003,2025-07-09,Email,Campaign 2,Rep 5,West
+L0004,2025-07-12,LinkedIn,Campaign 3,Rep 8,North
+L0005,2025-01-26,Organic,Campaign 2,Rep 3,North
+L0006,2025-06-21,Referral,Campaign 5,Rep 6,South
+L0007,2025-03-01,Referral,Campaign 3,Rep 4,West
+L0008,2025-01-22,Referral,Campaign 2,Rep 2,West
+L0009,2025-03-28,Referral,Campaign 3,Rep 4,North
+L0010,2025-03-18,Email,Campaign 3,Rep 5,West
+L0011,2025-01-13,Referral,Campaign 2,Rep 7,North
+L0012,2025-01-30,Referral,Campaign 4,Rep 1,West
+L0013,2025-05-04,LinkedIn,Campaign 5,Rep 2,East
+L0014,2025-02-22,Google Ads,Campaign 3,Rep 6,North
+L0015,2025-06-14,Organic,Campaign 5,Rep 3,North
+L0016,2025-06-26,Referral,Campaign 2,Rep 5,North
+L0017,2025-06-05,LinkedIn,Campaign 4,Rep 6,West
+L0018,2025-05-04,LinkedIn,Campaign 4,Rep 9,East
+L0019,2025-06-05,LinkedIn,Campaign 5,Rep 1,North
+L0020,2025-07-04,Google Ads,Campaign 1,Rep 10,East
+L0021,2025-03-12,Email,Campaign 4,Rep 2,West
+L0022,2025-06-07,LinkedIn,Campaign 2,Rep 4,West
+L0023,2025-03-26,LinkedIn,Campaign 1,Rep 3,East
+L0024,2025-04-06,Organic,Campaign 4,Rep 2,North
+L0025,2025-04-24,Email,Campaign 5,Rep 6,West
+L0026,2025-06-13,Google Ads,Campaign 2,Rep 5,East
+L0027,2025-04-24,Google Ads,Campaign 3,Rep 3,East
+L0028,2025-06-24,Referral,Campaign 2,Rep 7,North
+L0029,2025-06-20,Email,Campaign 3,Rep 4,North
+L0030,2025-05-29,Organic,Campaign 2,Rep 1,North
+L0031,2025-03-24,Referral,Campaign 5,Rep 8,North
+L0032,2025-06-30,Organic,Campaign 2,Rep 5,West
+L0033,2025-01-26,LinkedIn,Campaign 5,Rep 10,East
+L0034,2025-06-15,Organic,Campaign 1,Rep 3,East
+L0035,2025-03-12,Organic,Campaign 3,Rep 7,West
+L0036,2025-01-31,Google Ads,Campaign 2,Rep 9,North
+L0037,2025-02-09,LinkedIn,Campaign 2,Rep 2,South
+L0038,2025-06-26,Organic,Campaign 1,Rep 6,North
+L0039,2025-03-12,Referral,Campaign 2,Rep 6,South
+L0040,2025-06-27,LinkedIn,Campaign 4,Rep 9,East
+L0041,2025-03-07,Organic,Campaign 3,Rep 5,South
+L0042,2025-06-18,Referral,Campaign 2,Rep 8,East
+L0043,2025-01-29,Google Ads,Campaign 2,Rep 1,East
+L0044,2025-06-12,Referral,Campaign 4,Rep 1,East
+L0045,2025-01-14,Email,Campaign 2,Rep 1,West
+L0046,2025-02-05,Email,Campaign 1,Rep 1,West
+L0047,2025-04-02,Referral,Campaign 3,Rep 10,South
+L0048,2025-06-10,Referral,Campaign 1,Rep 1,East
+L0049,2025-05-05,Email,Campaign 1,Rep 2,West
+L0050,2025-04-07,Organic,Campaign 5,Rep 2,South
+L0051,2025-03-22,Referral,Campaign 4,Rep 2,East
+L0052,2025-02-15,Google Ads,Campaign 2,Rep 6,South
+L0053,2025-05-29,Email,Campaign 1,Rep 4,South
+L0054,2025-04-01,LinkedIn,Campaign 2,Rep 10,South
+L0055,2025-01-19,Referral,Campaign 2,Rep 1,South
+L0056,2025-03-18,Email,Campaign 5,Rep 4,North
+L0057,2025-03-02,Email,Campaign 5,Rep 1,East
+L0058,2025-01-14,Email,Campaign 2,Rep 10,West
+L0059,2025-02-23,LinkedIn,Campaign 1,Rep 2,North
+L0060,2025-02-02,Referral,Campaign 5,Rep 10,North
+L0061,2025-03-09,Organic,Campaign 4,Rep 3,North
+L0062,2025-04-10,Google Ads,Campaign 3,Rep 9,North
+L0063,2025-06-02,Google Ads,Campaign 3,Rep 5,South
+L0064,2025-04-06,LinkedIn,Campaign 4,Rep 9,West
+L0065,2025-04-18,LinkedIn,Campaign 3,Rep 1,South
+L0066,2025-06-29,Organic,Campaign 4,Rep 4,West
+L0067,2025-03-19,LinkedIn,Campaign 2,Rep 7,South
+L0068,2025-06-04,Email,Campaign 2,Rep 8,West
+L0069,2025-03-07,Referral,Campaign 2,Rep 5,North
+L0070,2025-02-10,LinkedIn,Campaign 3,Rep 1,South
+L0071,2025-05-05,Organic,Campaign 5,Rep 5,North
+L0072,2025-04-22,Referral,Campaign 2,Rep 5,East
+L0073,2025-01-12,Referral,Campaign 5,Rep 5,North
+L0074,2025-06-01,Referral,Campaign 3,Rep 2,South
+L0075,2025-05-20,Google Ads,Campaign 3,Rep 8,North
+L0076,2025-06-02,Referral,Campaign 1,Rep 6,North
+L0077,2025-02-22,LinkedIn,Campaign 1,Rep 7,South
+L0078,2025-03-03,Referral,Campaign 4,Rep 2,South
+L0079,2025-07-04,Referral,Campaign 4,Rep 5,East
+L0080,2025-02-13,LinkedIn,Campaign 5,Rep 5,West
+L0081,2025-05-23,LinkedIn,Campaign 2,Rep 9,West
+L0082,2025-05-26,Organic,Campaign 2,Rep 7,North
+L0083,2025-06-30,Google Ads,Campaign 5,Rep 2,North
+L0084,2025-01-29,Referral,Campaign 3,Rep 8,East
+L0085,2025-05-19,Email,Campaign 3,Rep 3,East
+L0086,2025-04-21,Referral,Campaign 2,Rep 3,West
+L0087,2025-02-17,Google Ads,Campaign 4,Rep 2,West
+L0088,2025-02-15,Google Ads,Campaign 5,Rep 1,West
+L0089,2025-03-13,Organic,Campaign 3,Rep 7,South
+L0090,2025-03-28,Google Ads,Campaign 5,Rep 4,West
+L0091,2025-03-27,Referral,Campaign 2,Rep 1,East
+L0092,2025-05-25,Email,Campaign 1,Rep 1,South
+L0093,2025-03-16,Organic,Campaign 2,Rep 9,South
+L0094,2025-04-13,Email,Campaign 3,Rep 9,South
+L0095,2025-03-31,Email,Campaign 5,Rep 2,South
+L0096,2025-02-13,LinkedIn,Campaign 1,Rep 9,South
+L0097,2025-06-17,Referral,Campaign 1,Rep 10,South
+L0098,2025-06-09,Referral,Campaign 4,Rep 5,South
+L0099,2025-03-13,LinkedIn,Campaign 2,Rep 3,West
+L0100,2025-02-07,Referral,Campaign 4,Rep 1,South
+L0101,2025-04-26,Organic,Campaign 1,Rep 10,East
+L0102,2025-03-27,LinkedIn,Campaign 1,Rep 1,East
+L0103,2025-06-21,Google Ads,Campaign 2,Rep 5,South
+L0104,2025-03-04,LinkedIn,Campaign 4,Rep 4,South
+L0105,2025-02-13,Organic,Campaign 2,Rep 10,East
+L0106,2025-04-25,Organic,Campaign 4,Rep 6,South
+L0107,2025-02-10,Email,Campaign 3,Rep 5,East
+L0108,2025-01-20,Email,Campaign 4,Rep 3,South
+L0109,2025-05-04,Google Ads,Campaign 4,Rep 2,West
+L0110,2025-03-26,LinkedIn,Campaign 3,Rep 4,West
+L0111,2025-04-24,Referral,Campaign 5,Rep 4,South
+L0112,2025-03-23,Google Ads,Campaign 1,Rep 7,West
+L0113,2025-05-13,Google Ads,Campaign 3,Rep 3,South
+L0114,2025-05-07,Email,Campaign 5,Rep 7,North
+L0115,2025-06-14,Email,Campaign 3,Rep 10,North
+L0116,2025-05-15,LinkedIn,Campaign 2,Rep 9,East
+L0117,2025-04-23,Google Ads,Campaign 2,Rep 1,West
+L0118,2025-05-25,Organic,Campaign 5,Rep 4,West
+L0119,2025-01-22,LinkedIn,Campaign 2,Rep 6,South
+L0120,2025-06-20,Google Ads,Campaign 4,Rep 8,South
+L0121,2025-02-19,Organic,Campaign 4,Rep 6,North
+L0122,2025-01-18,Referral,Campaign 4,Rep 6,North
+L0123,2025-06-17,Organic,Campaign 4,Rep 1,North
+L0124,2025-06-21,Organic,Campaign 3,Rep 10,East
+L0125,2025-03-21,Google Ads,Campaign 1,Rep 2,West
+L0126,2025-07-04,Referral,Campaign 3,Rep 4,East
+L0127,2025-05-12,LinkedIn,Campaign 2,Rep 9,South
+L0128,2025-04-02,LinkedIn,Campaign 5,Rep 9,East
+L0129,2025-02-19,Organic,Campaign 5,Rep 2,South
+L0130,2025-04-16,Organic,Campaign 5,Rep 1,South
+L0131,2025-06-17,Email,Campaign 4,Rep 6,East
+L0132,2025-07-11,Organic,Campaign 5,Rep 6,South
+L0133,2025-06-22,Referral,Campaign 5,Rep 9,South
+L0134,2025-05-19,Referral,Campaign 1,Rep 1,East
+L0135,2025-07-01,Organic,Campaign 2,Rep 4,East
+L0136,2025-01-18,LinkedIn,Campaign 1,Rep 5,North
+L0137,2025-02-24,Organic,Campaign 5,Rep 5,South
+L0138,2025-04-17,Organic,Campaign 1,Rep 4,South
+L0139,2025-04-11,Google Ads,Campaign 5,Rep 1,East
+L0140,2025-02-23,Email,Campaign 4,Rep 2,West
+L0141,2025-01-22,Organic,Campaign 1,Rep 7,West
+L0142,2025-03-11,Referral,Campaign 3,Rep 7,North
+L0143,2025-05-22,Email,Campaign 1,Rep 5,East
+L0144,2025-03-18,Email,Campaign 4,Rep 2,West
+L0145,2025-05-19,LinkedIn,Campaign 2,Rep 1,South
+L0146,2025-07-10,Referral,Campaign 2,Rep 2,North
+L0147,2025-05-25,Email,Campaign 2,Rep 9,East
+L0148,2025-02-25,LinkedIn,Campaign 4,Rep 8,North
+L0149,2025-07-12,LinkedIn,Campaign 3,Rep 6,South
+L0150,2025-05-10,Google Ads,Campaign 2,Rep 10,East
+L0151,2025-02-12,Google Ads,Campaign 2,Rep 6,North
+L0152,2025-05-25,Referral,Campaign 1,Rep 3,West
+L0153,2025-02-16,Email,Campaign 1,Rep 9,South
+L0154,2025-06-30,LinkedIn,Campaign 2,Rep 8,North
+L0155,2025-02-17,Referral,Campaign 2,Rep 7,South
+L0156,2025-01-19,Referral,Campaign 5,Rep 10,East
+L0157,2025-02-06,Email,Campaign 1,Rep 2,North
+L0158,2025-03-27,Referral,Campaign 2,Rep 9,West
+L0159,2025-05-14,LinkedIn,Campaign 3,Rep 9,West
+L0160,2025-04-13,Google Ads,Campaign 2,Rep 2,West
+L0161,2025-06-30,LinkedIn,Campaign 2,Rep 4,North
+L0162,2025-04-26,Email,Campaign 5,Rep 1,South
+L0163,2025-04-18,Organic,Campaign 2,Rep 6,South
+L0164,2025-03-24,Referral,Campaign 1,Rep 2,North
+L0165,2025-05-08,LinkedIn,Campaign 5,Rep 4,West
+L0166,2025-01-31,Email,Campaign 4,Rep 2,East
+L0167,2025-04-14,Google Ads,Campaign 2,Rep 6,East
+L0168,2025-04-24,LinkedIn,Campaign 1,Rep 10,West
+L0169,2025-06-05,LinkedIn,Campaign 3,Rep 10,North
+L0170,2025-07-10,Google Ads,Campaign 1,Rep 2,North
+L0171,2025-01-12,Google Ads,Campaign 2,Rep 10,West
+L0172,2025-05-12,Organic,Campaign 1,Rep 1,South
+L0173,2025-03-30,Email,Campaign 1,Rep 8,West
+L0174,2025-04-12,Organic,Campaign 1,Rep 8,East
+L0175,2025-03-12,LinkedIn,Campaign 3,Rep 8,South
+L0176,2025-02-24,Organic,Campaign 5,Rep 3,South
+L0177,2025-05-04,Referral,Campaign 4,Rep 5,North
+L0178,2025-04-13,Email,Campaign 2,Rep 4,North
+L0179,2025-02-15,LinkedIn,Campaign 4,Rep 8,East
+L0180,2025-06-16,Email,Campaign 5,Rep 5,North
+L0181,2025-04-07,Referral,Campaign 3,Rep 6,East
+L0182,2025-04-25,Organic,Campaign 4,Rep 4,West
+L0183,2025-01-12,Organic,Campaign 2,Rep 10,East
+L0184,2025-04-05,Google Ads,Campaign 5,Rep 3,East
+L0185,2025-05-18,LinkedIn,Campaign 1,Rep 7,West
+L0186,2025-06-04,LinkedIn,Campaign 3,Rep 5,South
+L0187,2025-05-05,Email,Campaign 1,Rep 1,East
+L0188,2025-03-29,LinkedIn,Campaign 4,Rep 9,North
+L0189,2025-06-22,Organic,Campaign 2,Rep 8,North
+L0190,2025-04-11,Organic,Campaign 2,Rep 9,West
+L0191,2025-01-13,Email,Campaign 3,Rep 9,North
+L0192,2025-02-23,Email,Campaign 1,Rep 5,South
+L0193,2025-05-02,Email,Campaign 5,Rep 1,South
+L0194,2025-06-29,Referral,Campaign 1,Rep 4,North
+L0195,2025-05-10,Organic,Campaign 3,Rep 5,West
+L0196,2025-03-03,Google Ads,Campaign 2,Rep 8,West
+L0197,2025-03-13,Referral,Campaign 2,Rep 4,East
+L0198,2025-06-22,Email,Campaign 5,Rep 7,East
+L0199,2025-05-30,LinkedIn,Campaign 4,Rep 8,North
+L0200,2025-02-22,LinkedIn,Campaign 3,Rep 7,West
+L0201,2025-02-25,Google Ads,Campaign 1,Rep 5,West
+L0202,2025-04-23,Referral,Campaign 3,Rep 6,West
+L0203,2025-05-03,LinkedIn,Campaign 3,Rep 3,North
+L0204,2025-06-02,Organic,Campaign 2,Rep 10,West
+L0205,2025-01-30,Referral,Campaign 3,Rep 5,North
+L0206,2025-06-26,Email,Campaign 1,Rep 8,North
+L0207,2025-06-01,LinkedIn,Campaign 3,Rep 6,South
+L0208,2025-01-16,Referral,Campaign 3,Rep 5,East
+L0209,2025-06-12,Referral,Campaign 3,Rep 9,West
+L0210,2025-07-04,Google Ads,Campaign 5,Rep 6,West
+L0211,2025-04-10,LinkedIn,Campaign 4,Rep 5,East
+L0212,2025-04-20,LinkedIn,Campaign 5,Rep 9,West
+L0213,2025-01-15,Referral,Campaign 3,Rep 8,West
+L0214,2025-02-04,Google Ads,Campaign 1,Rep 1,North
+L0215,2025-02-07,Google Ads,Campaign 2,Rep 8,South
+L0216,2025-04-14,Organic,Campaign 2,Rep 1,North
+L0217,2025-01-30,LinkedIn,Campaign 1,Rep 4,East
+L0218,2025-05-16,Referral,Campaign 3,Rep 10,East
+L0219,2025-02-07,Referral,Campaign 1,Rep 6,North
+L0220,2025-01-30,LinkedIn,Campaign 5,Rep 9,North
+L0221,2025-03-30,Referral,Campaign 2,Rep 2,West
+L0222,2025-04-09,Referral,Campaign 4,Rep 3,North
+L0223,2025-02-20,LinkedIn,Campaign 5,Rep 3,North
+L0224,2025-05-24,LinkedIn,Campaign 5,Rep 5,South
+L0225,2025-05-07,Organic,Campaign 4,Rep 4,South
+L0226,2025-04-17,Google Ads,Campaign 4,Rep 4,West
+L0227,2025-03-27,Email,Campaign 2,Rep 8,West
+L0228,2025-06-29,Organic,Campaign 3,Rep 5,South
+L0229,2025-06-01,Organic,Campaign 3,Rep 5,West
+L0230,2025-04-16,Email,Campaign 3,Rep 9,South
+L0231,2025-02-16,Email,Campaign 4,Rep 4,West
+L0232,2025-05-18,Google Ads,Campaign 4,Rep 2,West
+L0233,2025-04-05,Google Ads,Campaign 1,Rep 6,West
+L0234,2025-05-25,Organic,Campaign 4,Rep 4,East
+L0235,2025-04-18,Google Ads,Campaign 3,Rep 4,North
+L0236,2025-03-02,Email,Campaign 3,Rep 4,South
+L0237,2025-04-29,Referral,Campaign 5,Rep 10,South
+L0238,2025-03-11,Email,Campaign 5,Rep 2,East
+L0239,2025-07-09,Email,Campaign 3,Rep 8,South
+L0240,2025-04-08,Email,Campaign 2,Rep 3,South
+L0241,2025-03-07,Google Ads,Campaign 3,Rep 1,East
+L0242,2025-04-30,Organic,Campaign 3,Rep 2,North
+L0243,2025-07-02,LinkedIn,Campaign 3,Rep 10,South
+L0244,2025-05-22,LinkedIn,Campaign 5,Rep 3,West
+L0245,2025-02-28,Referral,Campaign 1,Rep 2,West
+L0246,2025-02-16,Google Ads,Campaign 3,Rep 6,West
+L0247,2025-05-25,Email,Campaign 5,Rep 10,West
+L0248,2025-06-08,Referral,Campaign 2,Rep 8,West
+L0249,2025-05-03,Google Ads,Campaign 1,Rep 10,South
+L0250,2025-03-22,Referral,Campaign 3,Rep 1,South
+L0251,2025-03-04,Email,Campaign 3,Rep 2,West
+L0252,2025-06-22,Referral,Campaign 3,Rep 10,North
+L0253,2025-05-08,Google Ads,Campaign 1,Rep 2,South
+L0254,2025-06-27,Referral,Campaign 4,Rep 2,South
+L0255,2025-04-27,Google Ads,Campaign 1,Rep 6,South
+L0256,2025-02-09,Referral,Campaign 5,Rep 2,North
+L0257,2025-05-03,Organic,Campaign 5,Rep 6,West
+L0258,2025-06-06,LinkedIn,Campaign 1,Rep 4,North
+L0259,2025-01-29,Email,Campaign 1,Rep 9,South
+L0260,2025-05-25,Referral,Campaign 1,Rep 9,South
+L0261,2025-02-08,Organic,Campaign 3,Rep 6,North
+L0262,2025-06-08,Email,Campaign 2,Rep 2,West
+L0263,2025-04-29,Referral,Campaign 1,Rep 6,East
+L0264,2025-03-27,LinkedIn,Campaign 2,Rep 4,North
+L0265,2025-04-11,Email,Campaign 4,Rep 1,West
+L0266,2025-03-06,Email,Campaign 1,Rep 5,South
+L0267,2025-03-27,Referral,Campaign 1,Rep 8,East
+L0268,2025-05-04,Organic,Campaign 4,Rep 5,West
+L0269,2025-02-13,Email,Campaign 3,Rep 6,West
+L0270,2025-04-29,Google Ads,Campaign 4,Rep 2,West
+L0271,2025-02-20,LinkedIn,Campaign 2,Rep 1,East
+L0272,2025-06-25,Organic,Campaign 3,Rep 9,South
+L0273,2025-05-28,Organic,Campaign 2,Rep 7,North
+L0274,2025-02-14,Organic,Campaign 3,Rep 9,North
+L0275,2025-07-10,Organic,Campaign 5,Rep 7,South
+L0276,2025-01-30,Organic,Campaign 3,Rep 1,East
+L0277,2025-04-26,Organic,Campaign 4,Rep 3,North
+L0278,2025-04-04,Organic,Campaign 4,Rep 9,West
+L0279,2025-04-11,Organic,Campaign 5,Rep 10,East
+L0280,2025-05-04,LinkedIn,Campaign 4,Rep 1,West
+L0281,2025-02-25,Google Ads,Campaign 1,Rep 9,North
+L0282,2025-01-26,Google Ads,Campaign 1,Rep 6,East
+L0283,2025-05-04,LinkedIn,Campaign 3,Rep 1,South
+L0284,2025-04-01,LinkedIn,Campaign 5,Rep 2,West
+L0285,2025-02-21,Email,Campaign 2,Rep 8,South
+L0286,2025-02-20,Google Ads,Campaign 1,Rep 5,East
+L0287,2025-03-13,LinkedIn,Campaign 1,Rep 4,South
+L0288,2025-02-18,Email,Campaign 3,Rep 10,East
+L0289,2025-04-02,Referral,Campaign 1,Rep 1,South
+L0290,2025-04-17,Organic,Campaign 5,Rep 6,West
+L0291,2025-06-14,Google Ads,Campaign 4,Rep 3,West
+L0292,2025-03-03,Organic,Campaign 5,Rep 9,East
+L0293,2025-06-15,Email,Campaign 5,Rep 8,North
+L0294,2025-06-26,Organic,Campaign 2,Rep 1,North
+L0295,2025-06-26,LinkedIn,Campaign 4,Rep 5,West
+L0296,2025-06-15,Email,Campaign 4,Rep 9,East
+L0297,2025-04-27,Organic,Campaign 3,Rep 8,South
+L0298,2025-03-27,Email,Campaign 3,Rep 4,West
+L0299,2025-02-17,Referral,Campaign 1,Rep 8,South
+L0300,2025-05-12,LinkedIn,Campaign 3,Rep 9,West
+L0301,2025-05-15,Google Ads,Campaign 3,Rep 2,North
+L0302,2025-05-27,Referral,Campaign 2,Rep 1,East
+L0303,2025-04-12,Email,Campaign 4,Rep 1,North
+L0304,2025-05-16,Organic,Campaign 2,Rep 2,South
+L0305,2025-03-18,Referral,Campaign 2,Rep 2,South
+L0306,2025-02-15,Email,Campaign 4,Rep 9,North
+L0307,2025-03-14,Organic,Campaign 1,Rep 6,West
+L0308,2025-04-02,Email,Campaign 5,Rep 8,East
+L0309,2025-02-21,Google Ads,Campaign 4,Rep 9,North
+L0310,2025-05-22,Referral,Campaign 3,Rep 6,South
+L0311,2025-05-12,LinkedIn,Campaign 1,Rep 7,North
+L0312,2025-06-02,Google Ads,Campaign 5,Rep 8,South
+L0313,2025-01-29,LinkedIn,Campaign 5,Rep 10,North
+L0314,2025-04-23,LinkedIn,Campaign 4,Rep 10,West
+L0315,2025-01-26,Organic,Campaign 1,Rep 4,West
+L0316,2025-02-06,Organic,Campaign 1,Rep 8,North
+L0317,2025-07-12,Organic,Campaign 1,Rep 7,East
+L0318,2025-02-15,Organic,Campaign 5,Rep 3,South
+L0319,2025-07-06,Email,Campaign 5,Rep 7,East
+L0320,2025-06-14,Organic,Campaign 4,Rep 6,North
+L0321,2025-01-14,Google Ads,Campaign 3,Rep 1,West
+L0322,2025-02-23,Email,Campaign 3,Rep 3,South
+L0323,2025-02-23,Organic,Campaign 4,Rep 10,North
+L0324,2025-05-01,Organic,Campaign 1,Rep 8,West
+L0325,2025-02-24,Referral,Campaign 2,Rep 5,North
+L0326,2025-02-26,Google Ads,Campaign 4,Rep 1,East
+L0327,2025-03-19,Google Ads,Campaign 1,Rep 9,South
+L0328,2025-05-13,Email,Campaign 5,Rep 7,North
+L0329,2025-01-29,Referral,Campaign 1,Rep 9,East
+L0330,2025-01-30,Referral,Campaign 2,Rep 4,East
+L0331,2025-06-20,Referral,Campaign 2,Rep 8,East
+L0332,2025-06-10,Email,Campaign 1,Rep 10,East
+L0333,2025-02-04,LinkedIn,Campaign 2,Rep 7,North
+L0334,2025-02-02,Email,Campaign 5,Rep 1,East
+L0335,2025-02-03,LinkedIn,Campaign 3,Rep 2,South
+L0336,2025-02-20,Organic,Campaign 3,Rep 10,North
+L0337,2025-06-23,LinkedIn,Campaign 1,Rep 7,West
+L0338,2025-04-25,Referral,Campaign 3,Rep 1,West
+L0339,2025-03-28,LinkedIn,Campaign 2,Rep 2,East
+L0340,2025-03-13,Referral,Campaign 3,Rep 4,East
+L0341,2025-04-05,LinkedIn,Campaign 3,Rep 8,West
+L0342,2025-04-10,Referral,Campaign 4,Rep 6,North
+L0343,2025-03-21,Referral,Campaign 5,Rep 3,West
+L0344,2025-07-05,Google Ads,Campaign 4,Rep 6,North
+L0345,2025-01-26,Referral,Campaign 5,Rep 6,South
+L0346,2025-04-24,Organic,Campaign 4,Rep 5,South
+L0347,2025-02-22,LinkedIn,Campaign 1,Rep 1,West
+L0348,2025-04-13,Organic,Campaign 3,Rep 2,West
+L0349,2025-01-29,Organic,Campaign 4,Rep 4,North
+L0350,2025-06-19,LinkedIn,Campaign 3,Rep 3,North
+L0351,2025-02-10,Referral,Campaign 3,Rep 6,South
+L0352,2025-01-28,Referral,Campaign 5,Rep 6,East
+L0353,2025-01-12,LinkedIn,Campaign 3,Rep 1,East
+L0354,2025-06-22,LinkedIn,Campaign 5,Rep 6,North
+L0355,2025-03-11,Email,Campaign 2,Rep 6,East
+L0356,2025-01-15,Organic,Campaign 5,Rep 10,East
+L0357,2025-06-27,Google Ads,Campaign 4,Rep 2,North
+L0358,2025-01-28,LinkedIn,Campaign 5,Rep 10,South
+L0359,2025-05-06,Email,Campaign 1,Rep 8,East
+L0360,2025-05-09,LinkedIn,Campaign 1,Rep 2,West
+L0361,2025-03-22,LinkedIn,Campaign 4,Rep 2,South
+L0362,2025-04-05,Email,Campaign 4,Rep 4,North
+L0363,2025-07-08,Organic,Campaign 3,Rep 2,West
+L0364,2025-04-01,Google Ads,Campaign 3,Rep 10,West
+L0365,2025-07-10,Google Ads,Campaign 4,Rep 4,West
+L0366,2025-04-26,Referral,Campaign 2,Rep 9,East
+L0367,2025-05-14,Referral,Campaign 3,Rep 5,North
+L0368,2025-05-08,Referral,Campaign 3,Rep 3,West
+L0369,2025-06-08,Referral,Campaign 2,Rep 10,North
+L0370,2025-02-21,Referral,Campaign 2,Rep 5,East
+L0371,2025-04-25,Email,Campaign 1,Rep 6,North
+L0372,2025-03-21,Referral,Campaign 5,Rep 9,South
+L0373,2025-06-28,Google Ads,Campaign 2,Rep 10,South
+L0374,2025-06-26,Organic,Campaign 4,Rep 1,South
+L0375,2025-06-03,Referral,Campaign 2,Rep 7,West
+L0376,2025-06-27,LinkedIn,Campaign 4,Rep 3,East
+L0377,2025-05-30,Referral,Campaign 4,Rep 5,North
+L0378,2025-04-15,Referral,Campaign 4,Rep 10,West
+L0379,2025-05-08,Referral,Campaign 1,Rep 5,West
+L0380,2025-01-25,Referral,Campaign 5,Rep 4,South
+L0381,2025-04-02,LinkedIn,Campaign 5,Rep 3,North
+L0382,2025-03-28,Google Ads,Campaign 5,Rep 2,North
+L0383,2025-07-03,Organic,Campaign 4,Rep 9,West
+L0384,2025-04-06,LinkedIn,Campaign 5,Rep 9,North
+L0385,2025-06-24,Organic,Campaign 2,Rep 8,East
+L0386,2025-02-25,Email,Campaign 2,Rep 7,North
+L0387,2025-02-06,Referral,Campaign 3,Rep 4,West
+L0388,2025-02-28,Organic,Campaign 2,Rep 8,South
+L0389,2025-02-20,Referral,Campaign 4,Rep 5,North
+L0390,2025-01-19,Google Ads,Campaign 2,Rep 9,West
+L0391,2025-03-12,Email,Campaign 2,Rep 6,North
+L0392,2025-02-19,Email,Campaign 3,Rep 3,East
+L0393,2025-03-27,Organic,Campaign 1,Rep 4,East
+L0394,2025-01-20,Google Ads,Campaign 4,Rep 1,South
+L0395,2025-05-20,Google Ads,Campaign 5,Rep 6,East
+L0396,2025-01-17,Referral,Campaign 2,Rep 5,West
+L0397,2025-05-20,Organic,Campaign 2,Rep 4,West
+L0398,2025-07-08,LinkedIn,Campaign 4,Rep 1,South
+L0399,2025-06-05,Organic,Campaign 1,Rep 6,West
+L0400,2025-04-25,LinkedIn,Campaign 4,Rep 8,South
+L0401,2025-01-12,LinkedIn,Campaign 4,Rep 2,West
+L0402,2025-02-06,Organic,Campaign 2,Rep 4,East
+L0403,2025-01-27,LinkedIn,Campaign 1,Rep 3,North
+L0404,2025-04-03,Referral,Campaign 2,Rep 3,West
+L0405,2025-04-04,Email,Campaign 4,Rep 5,North
+L0406,2025-04-05,Referral,Campaign 1,Rep 7,East
+L0407,2025-05-09,Google Ads,Campaign 5,Rep 8,West
+L0408,2025-03-06,Organic,Campaign 4,Rep 3,West
+L0409,2025-06-02,Email,Campaign 2,Rep 2,South
+L0410,2025-06-09,Google Ads,Campaign 1,Rep 3,North
+L0411,2025-05-31,Referral,Campaign 4,Rep 2,South
+L0412,2025-05-13,Organic,Campaign 4,Rep 4,North
+L0413,2025-05-27,LinkedIn,Campaign 2,Rep 8,West
+L0414,2025-06-10,Referral,Campaign 3,Rep 3,West
+L0415,2025-04-18,Organic,Campaign 5,Rep 4,West
+L0416,2025-06-09,Email,Campaign 4,Rep 7,East
+L0417,2025-02-08,Referral,Campaign 1,Rep 1,South
+L0418,2025-01-21,LinkedIn,Campaign 2,Rep 9,West
+L0419,2025-01-31,LinkedIn,Campaign 4,Rep 6,North
+L0420,2025-05-31,Google Ads,Campaign 1,Rep 1,West
+L0421,2025-07-01,Email,Campaign 4,Rep 6,South
+L0422,2025-01-17,Google Ads,Campaign 2,Rep 2,West
+L0423,2025-05-14,Email,Campaign 4,Rep 7,North
+L0424,2025-04-03,Email,Campaign 4,Rep 5,North
+L0425,2025-05-29,LinkedIn,Campaign 2,Rep 7,East
+L0426,2025-05-21,Email,Campaign 4,Rep 6,East
+L0427,2025-04-30,Referral,Campaign 1,Rep 3,West
+L0428,2025-02-21,Referral,Campaign 4,Rep 6,West
+L0429,2025-02-10,Referral,Campaign 4,Rep 9,South
+L0430,2025-02-13,Organic,Campaign 5,Rep 3,North
+L0431,2025-07-01,Organic,Campaign 5,Rep 2,East
+L0432,2025-01-14,Email,Campaign 2,Rep 2,South
+L0433,2025-04-01,Organic,Campaign 3,Rep 6,South
+L0434,2025-04-11,Organic,Campaign 1,Rep 2,East
+L0435,2025-05-13,Google Ads,Campaign 4,Rep 10,West
+L0436,2025-06-18,LinkedIn,Campaign 1,Rep 6,North
+L0437,2025-06-09,Google Ads,Campaign 3,Rep 3,North
+L0438,2025-06-11,Email,Campaign 5,Rep 10,South
+L0439,2025-02-14,LinkedIn,Campaign 3,Rep 10,North
+L0440,2025-02-26,Google Ads,Campaign 2,Rep 2,South
+L0441,2025-02-03,Google Ads,Campaign 5,Rep 8,North
+L0442,2025-01-28,LinkedIn,Campaign 2,Rep 7,West
+L0443,2025-06-18,Email,Campaign 2,Rep 8,South
+L0444,2025-07-09,Google Ads,Campaign 4,Rep 6,South
+L0445,2025-01-21,Google Ads,Campaign 4,Rep 1,West
+L0446,2025-04-15,LinkedIn,Campaign 3,Rep 6,South
+L0447,2025-01-13,Google Ads,Campaign 1,Rep 7,East
+L0448,2025-04-30,LinkedIn,Campaign 3,Rep 4,East
+L0449,2025-02-10,Organic,Campaign 1,Rep 4,South
+L0450,2025-04-24,Email,Campaign 2,Rep 2,South
+L0451,2025-06-30,Referral,Campaign 1,Rep 7,West
+L0452,2025-04-06,Email,Campaign 2,Rep 3,South
+L0453,2025-06-18,Google Ads,Campaign 3,Rep 2,South
+L0454,2025-05-19,Google Ads,Campaign 3,Rep 8,East
+L0455,2025-02-01,Referral,Campaign 1,Rep 6,North
+L0456,2025-04-27,Referral,Campaign 4,Rep 7,South
+L0457,2025-04-24,Referral,Campaign 1,Rep 10,North
+L0458,2025-01-19,Referral,Campaign 4,Rep 6,East
+L0459,2025-06-22,Referral,Campaign 3,Rep 1,North
+L0460,2025-05-17,Referral,Campaign 3,Rep 6,North
+L0461,2025-03-31,Google Ads,Campaign 3,Rep 3,South
+L0462,2025-05-14,Organic,Campaign 2,Rep 3,West
+L0463,2025-01-26,LinkedIn,Campaign 5,Rep 6,North
+L0464,2025-04-21,Organic,Campaign 4,Rep 3,South
+L0465,2025-02-18,Organic,Campaign 4,Rep 5,East
+L0466,2025-03-07,Referral,Campaign 3,Rep 1,South
+L0467,2025-05-08,Email,Campaign 1,Rep 3,West
+L0468,2025-05-01,Email,Campaign 4,Rep 6,East
+L0469,2025-05-03,Email,Campaign 5,Rep 1,East
+L0470,2025-06-24,LinkedIn,Campaign 4,Rep 8,West
+L0471,2025-03-25,Referral,Campaign 5,Rep 4,South
+L0472,2025-03-22,Email,Campaign 2,Rep 9,East
+L0473,2025-03-20,Google Ads,Campaign 3,Rep 10,East
+L0474,2025-05-11,Organic,Campaign 2,Rep 7,South
+L0475,2025-04-25,Organic,Campaign 3,Rep 8,East
+L0476,2025-07-03,Referral,Campaign 3,Rep 4,West
+L0477,2025-04-23,Referral,Campaign 3,Rep 9,North
+L0478,2025-03-10,Referral,Campaign 4,Rep 9,North
+L0479,2025-02-28,LinkedIn,Campaign 2,Rep 6,East
+L0480,2025-07-13,Google Ads,Campaign 2,Rep 5,North
+L0481,2025-03-28,Google Ads,Campaign 5,Rep 3,North
+L0482,2025-06-12,LinkedIn,Campaign 2,Rep 7,West
+L0483,2025-04-20,Organic,Campaign 5,Rep 7,East
+L0484,2025-05-26,Referral,Campaign 5,Rep 7,North
+L0485,2025-01-13,Referral,Campaign 1,Rep 4,West
+L0486,2025-03-24,Google Ads,Campaign 5,Rep 8,East
+L0487,2025-05-09,Google Ads,Campaign 2,Rep 1,South
+L0488,2025-05-11,LinkedIn,Campaign 4,Rep 7,West
+L0489,2025-01-30,Referral,Campaign 5,Rep 5,South
+L0490,2025-03-22,Google Ads,Campaign 2,Rep 6,North
+L0491,2025-02-15,Organic,Campaign 3,Rep 9,East
+L0492,2025-01-14,Email,Campaign 2,Rep 9,West
+L0493,2025-05-30,Organic,Campaign 2,Rep 8,West
+L0494,2025-06-06,Email,Campaign 3,Rep 7,East
+L0495,2025-06-02,Google Ads,Campaign 1,Rep 2,North
+L0496,2025-05-08,Google Ads,Campaign 4,Rep 2,West
+L0497,2025-01-29,Email,Campaign 4,Rep 4,East
+L0498,2025-07-06,Referral,Campaign 4,Rep 3,South
+L0499,2025-05-11,Organic,Campaign 1,Rep 4,North
+L0500,2025-05-05,Google Ads,Campaign 4,Rep 9,West
