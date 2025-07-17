@@ -1,0 +1,11 @@
+SELECT 
+  l.source,
+  COUNT(DISTINCT l.lead_id) AS total_leads,
+  COUNT(DISTINCT CASE WHEN o.status = 'won' THEN o.lead_id END) AS won_leads,
+  ROUND(
+    1.0 * COUNT(DISTINCT CASE WHEN o.status = 'won' THEN o.lead_id END)
+    / COUNT(DISTINCT l.lead_id), 2
+  ) AS conversion_rate
+FROM sales_leads_v2 l
+LEFT JOIN sales_opportunities_v2 o ON l.lead_id = o.lead_id
+GROUP BY l.source;
